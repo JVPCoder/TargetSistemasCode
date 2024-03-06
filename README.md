@@ -1,5 +1,5 @@
 # TargetSistemasCode
- Repositório criado para teste de vaga na empresa Target Sistemas
+ Repositório criado para teste de vaga na empresa Target Sistemas, os códigos se encontram dentro da pasta src/main
 
 ## Ex01
  Observe o trecho de código abaixo:
